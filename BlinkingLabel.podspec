@@ -25,7 +25,7 @@ This CocoaPod provides the ability to use a UILabel that may be started and stop
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cchen_xiao_shuang@163.com' => 'chenxiaoshuang1@corp.netease.com' }
-  s.source           = { :git => 'https://github.com/cchen_xiao_shuang@163.com/BlinkingLabel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/littledou2013/BlinkingLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
