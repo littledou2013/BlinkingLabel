@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BlinkingLabel_Tests' do
+  pod 'BlinkingLabel', :path => '../'
+  
+  
+end
