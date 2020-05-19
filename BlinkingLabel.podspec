@@ -31,7 +31,7 @@ This CocoaPod provides the ability to use a UILabel that may be started and stop
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'BlinkingLabel/Classes/**/*'
-  s.swift_versions = '4.0'
+  s.swift_versions = '4'
   
   # s.resource_bundles = {
   #   'BlinkingLabel' => ['BlinkingLabel/Assets/*.png']
